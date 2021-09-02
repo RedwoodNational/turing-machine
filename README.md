@@ -5,7 +5,7 @@ Simple Turing Machine Interpreter. Supports quadruplet rules. According to _Wiki
 
 ## Demo
 
-This animation illustrates turing machine performing bitwise and operation on two binary operands. Repository contains "bitwise_and" file with rules required to run this algorithm. Machine copies input data and then perfomres logical operation on two copied operands.
+This animation illustrates turing machine performing bitwise and operation on two binary operands. Repository contains "bitwise_and" file with rules required to run this algorithm. Machine copies input data and then performes logical operation on those two operands.
 
 
 ![Alt Text](https://github.com/curlysilk53/turing-machine/blob/master/bitwise_and_demo.gif)
