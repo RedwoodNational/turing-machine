@@ -3,7 +3,7 @@
 Simple Turing Machine Interpreter. Supports quadruplet rules. According to _Wikipedia_:
 > A Turing machine is a mathematical model of computation that defines an abstract machine that manipulates symbols on a strip of tape according to a table of rules. Despite the model's simplicity, given any computer algorithm, a Turing machine capable of simulating that algorithm's logic can be constructed.   
 
-## Demo
+## Demo:
 
 This animation illustrates turing machine performing bitwise and operation on two binary operands. Repository contains "bitwise_and" file with rules required to run this algorithm. Machine copies input data and then performes logical operation on those two operands.
 
@@ -11,7 +11,7 @@ This animation illustrates turing machine performing bitwise and operation on tw
 ![Alt Text](https://github.com/curlysilk53/turing-machine/blob/master/bitwise_and_demo.gif)
 
 
-## Usage: 
+## Usage
 
 `turing-machine.sh <file> <tape_data> [options]`
 + `<file>` - file with rules
